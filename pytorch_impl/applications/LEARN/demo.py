@@ -135,7 +135,7 @@ def node(
         f"node:{rank}",
         rank=rank,
         world_size=world_size,
-        rpc_backend_options=rpc.ProcessGroupRpcBackendOptions(
+        rpc_backend_options=rpc.TensorPipeRpcBackendOptions(
             init_method=f"tcp://localhost:{port}"
         ),
     )
