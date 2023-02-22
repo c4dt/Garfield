@@ -1,5 +1,5 @@
-tensorflow==2.3.1
-numpy==1.18.5
+tensorflow==2.9.3
+numpy==1.21.6
 grpcio==1.33.2
 grpcio-tools==1.33.2
 tensorflow_datasets==4.0.1
