@@ -1,4 +1,15 @@
-# Garfield
+# Garfield - ARCHIVED
+
+This project has been archived by the [C4DT](https://c4dt.epfl.ch) Factory team.
+It is kept here for reference and for old URLs.
+You can find more information in our [showcase](https://factory.c4dt.org/showcase/garfield/presentation)
+and find our contact information.
+
+## Demonstrator
+
+You can find more information about the demonstrator in the [README-demo.md](README-demo.md)
+
+## Information
 
 Authors<sup>1</sup>: Arsany Guirguis, Jérémy Max Plassmann, Anton Alexandre Ragot, Sébastien Rouault
 
